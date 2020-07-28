@@ -1,0 +1,140 @@
+html
+{
+	background: url(image/test2.jpg) scroll repeat;
+
+}
+
+body
+{
+
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: lime;
+	font-weight: bold;
+	font-size: 14px;
+	background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.wx
+{
+	font-family: "Times New Roman", Times, serif;
+	color: lime;
+	font-weight: bold;
+	font-size: 72px;
+	border-radius: 10px;
+	border: 2px lime solid;
+	background: url(image/test3.jpg);
+	box-shadow: 6px 6px 0px green;
+	padding: 20px;
+	margin: 20px;
+}
+
+#az
+{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+
+}
+
+#nav
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: lime;
+	font-weight: normal;
+	font-size: 18px;
+	border-radius: 10px;
+	border: 2px lime solid;
+	background-color: rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 0px green;
+	padding: 20px;
+	margin: 20px;
+	float: left;
+	display: block;
+	position: sticky;
+	top: 20px;
+	left: 10px;
+}
+
+#a
+{
+	font-size: 28px;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.ab
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: lime;
+	font-weight: bold;
+	font-size: 28px;
+	border-radius: 10px;
+	border: 2px lime solid;
+	background-color: rgba(0, 0, 0, 0.5);
+	box-shadow: 6px 6px 0px green;
+	padding: 20px;
+	margin-left: 280px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+
+.abcd
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: lime;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 10px;
+	border: 2px lime solid;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px;
+	margin: 20px;
+
+}
+
+
+.abc
+{
+
+	font-size: 30px;
+
+}
+
+
+.er ol li
+{
+  display: none;
+}
+.er:hover ol li
+{
+  display : block;
+}
+
+#rt
+{
+	width: 200px;
+	height: 300px;
+}
+
+p
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+a:visited
+{
+	color: green;
+}
+
+a
+{
+	color: green;
+}
